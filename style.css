@@ -72,22 +72,22 @@ ul li a:hover{
 
 .search{
     width: 330px;
-    float: left;
-    margin: 270px;
+    float: inline-end;
+    margin: 20px;
 
 }
 .srch{
     font-family: 'Times New Roman';
     width: 200px;
-    height: 40px;
+    height: 25px;
     background: transparent;
     border: 1px solid wheat;
-    margin-top: 13px;
+    margin-top: 5px;
     color: wheat;
     border-right: none;
     font-size: 16px;
     float: left;
-    padding: 10px;
+    padding: 8px;
     border-bottom-left-radius: 5px;
     border-top-left-radius: 5px;
 
@@ -95,11 +95,11 @@ ul li a:hover{
 
 .btn{
     width: 100px;
-    height: 40px;
-    background: rgb(166, 132, 69);
-    border: 2px solid wheat;
-    margin-top: 13px;
-    color: rgb(161, 111, 18);
+    height: 25px;
+    background: rgb(168, 144, 102);
+    border: 1px solid wheat;
+    margin-top: 5px;
+    color: wheat;
     font-size: 15px;
     border-bottom-left-radius: 5px;
     border-top-left-radius: 5px;
